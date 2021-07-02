@@ -10,9 +10,4 @@ run 'mytest.m'
 
 --datasets:
 a9a
-Diabetes
-Breast Cancer
-German
-Madelon
-Spine
 Please find more information about datasets in our paper.
